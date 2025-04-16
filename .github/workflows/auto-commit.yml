@@ -20,7 +20,7 @@ jobs:
       #    이 정보는 자동 커밋을 남길 때 커밋 작성자 정보로 사용됨
       - name: Set up Git
         run: |
-          git config user.name "hyeonju-an"
+          git config user.name "hyeondorii"
           git config user.email "gbdqbd123@gmail.com"
 
       # 원격 저장소의 변경 사항을 가져오기
